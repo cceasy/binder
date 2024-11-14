@@ -1,4 +1,6 @@
 name: python 3.10
+channels:
+  - conda-forge
 dependencies:
   - python=3.10
   - tensorflow-text==2.13.0
