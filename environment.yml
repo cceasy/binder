@@ -3,7 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - tensorflow-text==2.13.0
-  - tensorflow-datasets==4.9.6
-  - keras-nlp==0.6.4
-  
+  - requests
