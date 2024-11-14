@@ -1,0 +1,5 @@
+#!/bin/bash
+
+python -V
+
+pip install -y tensorflow-text==2.13.0 tensorflow-datasets==4.9.6 keras-nlp==0.6.4
