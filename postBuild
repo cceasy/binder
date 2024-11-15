@@ -1,5 +1,6 @@
 #!/bin/bash
 
+conda env list
 python -V
 
 yes | pip install tensorflow-text==2.13.0 tensorflow-datasets==4.9.6 keras-nlp==0.6.4
