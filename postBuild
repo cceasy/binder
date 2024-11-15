@@ -1,5 +1,7 @@
 #!/bin/bash
 
+apt install -y zip unzip
+
 conda env list
 python -V
 
