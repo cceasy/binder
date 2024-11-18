@@ -5,5 +5,4 @@ apt install -y zip unzip
 conda env list
 python -V
 
-yes | pip install tensorflow-text==2.15.0 tensorflow-datasets==4.9.6 keras-nlp==0.6.4
-# typing-extensions==4.6.0
+yes | pip install typing-extensions==4.5.0 tensorflow-text==2.13.0 tensorflow-datasets==4.9.6 keras-nlp==0.6.4
